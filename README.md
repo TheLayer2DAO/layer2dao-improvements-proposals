@@ -1,2 +1,2 @@
-# layer2dao-improvements-proposals
+# layer2dao-improvement-proposals
 LTIPs
